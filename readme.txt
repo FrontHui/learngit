@@ -10,4 +10,4 @@ Git is free software distributed under the GPL.
 //3
 Git has a mutable index called stage
 //4
-Git tracks changes
+Git tracks changes of files.
