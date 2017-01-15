@@ -14,3 +14,4 @@ Git tracks changes of files.
 //5
 github
 Creating a new branch is quick and simple
+//6 new --no-ff git merge
