@@ -1,5 +1,5 @@
 Git is a version control system
-Git is free software
+Git is free software..........
 
 //xiugai
 Git is a distributed version control system
@@ -15,3 +15,4 @@ Git tracks changes of files.
 github
 Creating a new branch is quick and simple
 //6 new --no-ff git merge
+//hello by
